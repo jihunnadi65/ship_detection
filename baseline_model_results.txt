@@ -1,0 +1,83 @@
+Epoch 1
+-------------------------------
+Train_set: 
+ Accuracy: 87.7%, Avg loss: 0.296968 
+
+Test_set: 
+ Accuracy: 84.8%, Avg loss: 0.415827 
+
+Epoch 2
+-------------------------------
+Train_set: 
+ Accuracy: 89.7%, Avg loss: 0.286770 
+
+Test_set: 
+ Accuracy: 90.8%, Avg loss: 0.279602 
+
+Epoch 3
+-------------------------------
+Train_set: 
+ Accuracy: 90.4%, Avg loss: 0.318065 
+
+Test_set: 
+ Accuracy: 88.6%, Avg loss: 0.370532 
+
+Epoch 4
+-------------------------------
+Train_set: 
+ Accuracy: 90.6%, Avg loss: 0.295344 
+
+Test_set: 
+ Accuracy: 88.8%, Avg loss: 0.335211 
+
+Epoch 5
+-------------------------------
+Train_set: 
+ Accuracy: 89.5%, Avg loss: 0.349463 
+
+Test_set: 
+ Accuracy: 88.5%, Avg loss: 0.518136 
+
+Epoch 6
+-------------------------------
+Train_set: 
+ Accuracy: 90.6%, Avg loss: 0.362929 
+
+Test_set: 
+ Accuracy: 85.6%, Avg loss: 0.633835 
+
+Epoch 7
+-------------------------------
+Train_set: 
+ Accuracy: 91.3%, Avg loss: 0.296651 
+
+Test_set: 
+Baseline Model: 
+
+Accuracy: 90.2%, Avg loss: 0.336457 
+
+Epoch 8
+-------------------------------
+Train_set: 
+ Accuracy: 91.7%, Avg loss: 0.283401 
+
+Test_set: 
+ Accuracy: 89.9%, Avg loss: 0.452165 
+
+Epoch 9
+-------------------------------
+Train_set: 
+ Accuracy: 92.3%, Avg loss: 0.274858 
+
+Test_set: 
+ Accuracy: 90.6%, Avg loss: 0.414539 
+
+Epoch 10
+-------------------------------
+Train_set: 
+ Accuracy: 91.8%, Avg loss: 0.309027 
+
+Test_set: 
+ Accuracy: 89.1%, Avg loss: 0.554134 
+
+Done!
